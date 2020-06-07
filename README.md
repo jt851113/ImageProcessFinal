@@ -14,7 +14,8 @@ Detail
 ---
 Data Preprocess:
 shuffle
-validation set : training set = 1 : 9
+validation set : training set = 1 : 9  
+
 
 
 Traning argument & trick :
