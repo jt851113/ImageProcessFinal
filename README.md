@@ -5,9 +5,9 @@ Sign Language Recognition with InceptionV3
 
 
 ## Requirement
-Tensorflow 2
-Numpy
-PIL
+Tensorflow 2,
+Numpy,
+PIL,
 Matplotlib
 
 Detail
